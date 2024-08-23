@@ -1,0 +1,27 @@
+/* Seletor de elementos */
+body {
+    background-color: burlywood;
+    font-family: cursive;
+}
+
+p {
+    color: darkorange;
+}
+
+/* Seletor de classe */
+.minhaclasse {
+    text-align: center;
+}
+
+p.minhaclasse {
+    background-color: black;
+}
+
+.m2 {
+    font-size: large;
+}
+
+/* Seletor de ID */
+#sec1 {
+    background-color: blueviolet;
+}
